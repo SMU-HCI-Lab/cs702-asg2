@@ -170,7 +170,6 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-q3_simulator.c
-q3_simulator.py
 answer*
 .DS_Store
+playground/
